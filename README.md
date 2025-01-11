@@ -5,7 +5,7 @@ dan untuk memenuhi kebutuhan Ujian Akhir Semester matakuliah Big Data.
 
 Salam, Syahdan and TEAM 
 - Muhammad Syahdan Junus  - 312210285 
-- Wanda 
+- Roswanda Nuraini - 312210328 
 - Roana
 - Abdul Rokim
 - Fazri Al badawi
